@@ -17,6 +17,10 @@ p.icon-atom {
 
 /* Link Styling on Nav */
 
+nav {
+	font-family: 'Lato', sans-serif;
+}
+
 
 ul {
   list-style-type: none;
